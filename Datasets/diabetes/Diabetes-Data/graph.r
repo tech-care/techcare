@@ -1,0 +1,9 @@
+data=read.csv("data-01",sep="\t")
+colnames(data)[1]=("date")
+colnames(data)[2]=("time")
+colnames(data)[3]=("insulin")
+colnames(data)[4]=("value")
+data$date=as.Date(data$date,"%m-%d-%Y")
+plot(data$date,data$value,type="h")
+i=which(data$insulin==33)
+insulin_33=data[i,]
