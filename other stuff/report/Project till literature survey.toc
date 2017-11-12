@@ -1,0 +1,46 @@
+\contentsline {chapter}{\numberline {1}\bf {SYNOPSIS}}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}PROJECT TITLE}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}PROJECT OPTION}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}INTERNAL GUIDE}{2}{section.1.3}
+\contentsline {section}{\numberline {1.4}SPONSORSHIP AND EXTERNAL GUIDE}{2}{section.1.4}
+\contentsline {section}{\numberline {1.5}TECHNICAL KEYWORDS}{2}{section.1.5}
+\contentsline {section}{\numberline {1.6}PROBLEM STATEMENT}{3}{section.1.6}
+\contentsline {section}{\numberline {1.7}ABSTRACT}{3}{section.1.7}
+\contentsline {section}{\numberline {1.8}GOALS AND OBJECTIVES}{3}{section.1.8}
+\contentsline {section}{\numberline {1.9}RELEVANT MATHEMATICS ASSOCIATED WITH THE PROJECT}{3}{section.1.9}
+\contentsline {subsection}{\numberline {1.9.1}MATHEMATICAL MODEL}{3}{subsection.1.9.1}
+\contentsline {section}{\numberline {1.10}NAMES OF CONFERENCES / JOURNALS WHERE PAPERS CAN BE PUBLISHED}{5}{section.1.10}
+\contentsline {section}{\numberline {1.11}PLAN OF PROJECT EXECUTION}{6}{section.1.11}
+\contentsline {chapter}{\numberline {2}\bf {TECHNICAL KEYWORDS}}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}AREA OF PROJECT}{8}{section.2.1}
+\contentsline {section}{\numberline {2.2}TECHNICAL KEYWORDS}{8}{section.2.2}
+\contentsline {chapter}{\numberline {3}INTRODUCTION}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}PROJECT IDEA}{10}{section.3.1}
+\contentsline {section}{\numberline {3.2}MOTIVATION OF THE PROJECT}{10}{section.3.2}
+\contentsline {section}{\numberline {3.3}LITERATURE SURVEY}{10}{section.3.3}
+\contentsline {chapter}{\numberline {4}PROBLEM DEFINITION AND SCOPE}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}PROBLEM STATEMENT}{16}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Goals and Objectives}{16}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Statement of Scope}{16}{subsection.4.1.2}
+\contentsline {chapter}{\numberline {5}SYSTEM ARCHITECTURE AND REQUIREMENTS}{18}{chapter.5}
+\contentsline {section}{\numberline {5.1}HARDWARE RESOURCES REQUIRED}{19}{section.5.1}
+\contentsline {section}{\numberline {5.2}SOFTWARE RESOURCES REQUIRED}{19}{section.5.2}
+\contentsline {section}{\numberline {5.3}SYSTEM ARCHITECTURE}{20}{section.5.3}
+\contentsline {chapter}{\numberline {6}Feasibility study}{21}{chapter.6}
+\contentsline {section}{\numberline {6.1}Technical feasibility}{22}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Hardware feasibility}{22}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Software feasibility}{22}{subsection.6.1.2}
+\contentsline {section}{\numberline {6.2}Economical feasibility}{22}{section.6.2}
+\contentsline {section}{\numberline {6.3}Schedule feasibility}{22}{section.6.3}
+\contentsline {section}{\numberline {6.4}Operational feasibility}{23}{section.6.4}
+\contentsline {chapter}{\numberline {7}Design}{24}{chapter.7}
+\contentsline {section}{\numberline {7.1}UML modeling}{25}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Goals of UML:}{25}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}UML diagrams for the project:}{26}{subsection.7.1.2}
+\contentsline {subsubsection}{Use Case diagram}{26}{section*.8}
+\contentsline {subsubsection}{Activity diagram}{26}{section*.10}
+\contentsline {subsubsection}{Component diagram}{27}{section*.12}
+\contentsline {subsubsection}{Deployment diagram}{28}{section*.14}
+\contentsline {subsubsection}{Sequence diagram}{29}{section*.16}
+\contentsline {subsubsection}{Interaction diagram}{30}{section*.18}
+\contentsline {subsubsection}{Statechart diagram}{30}{section*.20}
